@@ -1,4 +1,3 @@
-// factorial_recursive.cpp
 //Time Complexity: O(n)
 //Space Complexity: O(n) - recursion stack
 #include <bits/stdc++.h>

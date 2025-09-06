@@ -1,4 +1,3 @@
-// fib_memo.cpp
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 #include <bits/stdc++.h>

@@ -1,4 +1,3 @@
-// fib_tabulation.cpp
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 #include <bits/stdc++.h>

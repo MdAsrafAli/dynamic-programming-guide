@@ -1,4 +1,3 @@
-// grid_traveler.cpp
 // Time Complexity: O(m*n)
 // Space Complexity: O(m*n)
 #include <bits/stdc++.h>

@@ -1,6 +1,5 @@
-/*Time Complexity: O(2^n)
-Space Complexity: O(n) - recursion stack
-fib_recursive.cpp */
+// Space Complexity: O(n) - recursion stack
+// fib_recursive.cpp 
 #include <bits/stdc++.h>
 using namespace std;
 
